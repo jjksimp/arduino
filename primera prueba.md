@@ -57,3 +57,11 @@ Tareas de hoy:
 - Mensaje en morse
 
 - Documentar lo anterior
+
+## Archivo
+Como subir un programa
+- Errores y soluciones
+
+## Morse y las funciones
+
+
