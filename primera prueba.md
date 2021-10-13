@@ -37,8 +37,11 @@ Voltaje= intensidad . resistencia ó Resistencia= voltaje / intensidad
 Para que no se frían
 
 Tenemos dos azulitos / el voltaje de los azulitos es de 5v
+
 5v -- GND ov 
+
 5v -- GND ov
 
 5v / 441 = 0,011334 A= 11,33 mA
+
 5v / 1 = 1
