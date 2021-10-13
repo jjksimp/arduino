@@ -38,6 +38,8 @@ Voltaje= intensidad . resistencia ó Resistencia= voltaje / intensidad
 
 ### ¿ Por qué necesitamos resistencias con los LEDs ?
 
+Para que no se frían
+
 Tenemos dos azulitos / el voltaje de los azulitos es de 5v
 5v -- GND ov 
 5v -- GND ov
