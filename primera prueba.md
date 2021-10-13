@@ -20,10 +20,6 @@ Windows: Usuario (usuario) y Administrador(super usuarios)
 
 Esto pese a funcionar y dar luz, genera dos problemas. El primero: se calienta y es incómodo de tocar, y el segundo es que puede fundir el LED.
 
-### circuito en serie
-
-En los circuitos en serie si desconectamos 
-
 ## Apuntes sobre electricidad
 
 Voltaje - altura (diferencia de potencial)
