@@ -57,5 +57,3 @@ Tareas de hoy:
 - Mensaje en morse
 
 - Documentar lo anterior
-
-/home/usuario/Imágenes/Captura de pantalla de 2021-10-13 12-40-57.png
