@@ -45,3 +45,17 @@ Tenemos dos azulitos / el voltaje de los azulitos es de 5v
 5v / 441 = 0,011334 A= 11,33 mA
 
 5v / 1 = 1
+
+### Lenguaje:
+
+Archivo- ejemplos- o1. basics- blink
+
+Tareas de hoy:
+
+- Blink 
+
+- Mensaje en morse
+
+- Documentar lo anterior
+
+/home/usuario/Imágenes/Captura de pantalla de 2021-10-13 12-40-57.png
