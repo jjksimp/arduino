@@ -69,4 +69,4 @@ Primero abrimos el arduino, probamos si el programa se ejecutaba correctamente y
 ### Errores y excepciones
 
 Operaciones no permitidas por el lenguaje de programación 
-BUG, GLITCH, ERROR. EXCEPCIÓN.
+BUG, GLITCH, ERROR, EXCEPCIÓN,LAG.
