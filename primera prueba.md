@@ -84,12 +84,18 @@ BUG, GLITCH, ERROR, EXCEPCIÓN,LAG.
 - Herramientas / puerto
 - Un minuto aprox y sin desenchufar arduino
 
-Morse 1 - Hicimos modificaciones en el código para cambiar tanto el tiempo del brillo. Para eso hicimos cambios en las dos lineas delay (___);
+Morse 1 - Hicimos modificaciones en el código para cambiar tanto el tiempo del brillo. Para eso hicimos cambios en las dos lineas delay ( ___ ); Nos pide un
+número, ese número serán los milisegundos de espera: 1000 - 1s / 60.000 - 1 min / 500 - 1/2 milisegundo. 
 
-Morse 2 
+Morse 2 -
 
 # Qué hace BLINK.INO
 
 vOID LOOG () L
 
-Morse 3
+Morse 3 -
+
+ digitalWrite(LED_BUILTIN, HIGH);   
+  delay(100);                     
+  digitalWrite(LED_BUILTIN, LOW);  
+  delay(500); 
