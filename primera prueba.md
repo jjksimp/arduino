@@ -58,10 +58,6 @@ Tareas de hoy:
 
 - Documentar lo anterior
 
-## Archivo
-Como subir un programa
-- Errores y soluciones
-
 ## Morse y las funciones
 
 Primero abrimos el arduino, probamos si el programa se ejecutaba correctamente y luego editamos el contenido más de una vez, primero en loop yluego escribimos nuestros nombres en morse.
