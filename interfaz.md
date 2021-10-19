@@ -14,7 +14,7 @@ ordenador:
 - micro
 - webcam
 
-### salidas outputs:
+### output:
 
 - altavoces
 - monitor
