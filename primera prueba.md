@@ -62,6 +62,9 @@ Tareas de hoy:
 
 Primero abrimos el arduino, probamos si el programa se ejecutaba correctamente y luego editamos el contenido más de una vez, primero en loop yluego escribimos nuestros nombres en morse.
 
+![imagen](https://user-images.githubusercontent.com/90753482/137886348-ad7871bc-9236-4a9f-96c4-7a3595b4abec.png)
+
+
 ### Errores y excepciones
 
 Operaciones no permitidas por el lenguaje de programación 
