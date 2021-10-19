@@ -69,4 +69,13 @@ Primero abrimos el arduino, probamos si el programa se ejecutaba correctamente y
 ### Errores y excepciones
 
 Operaciones no permitidas por el lenguaje de programación 
+
 BUG, GLITCH, ERROR, EXCEPCIÓN,LAG.
+
+## Como programar Arduino
+
+- Primero tenemos arduino.IDE instalado.
+- Tenemos un usuario con permisos
+- Conectamos el arduino por USB 
+- Cargamos el programa BLINK.INO / archivo / ejemplos / 1.basics / blink
+- 
