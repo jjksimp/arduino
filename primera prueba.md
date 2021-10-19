@@ -89,7 +89,7 @@ número, ese número serán los milisegundos de espera: 1000 - 1s / 60.000 - 1 m
 
 Morse 2 -
 
-# Qué hace BLINK.INO
+# ¿ Qué hace BLINK.INO ?
 
 vOID LOOG () L
 
