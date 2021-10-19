@@ -27,5 +27,5 @@ salidas: pantalla, altavoces, linterna, motor vibración
 
 ARDUINO - 18 pines
 
-
+Programación - pág 34-35
 Resistencias - página 41. 220 - azules
