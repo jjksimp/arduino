@@ -5,7 +5,7 @@ Interfaz de nave espacial
 - variaciones
 
 
-ordenador: 
+➙ ordenador: 
 
  ### input:  
 
@@ -19,13 +19,15 @@ ordenador:
 - altavoces
 - monitor
 
-teléfono:
+➙ teléfono:
 
-entradas: micrófono, cámaras, pantallas táctil, giroscópio, acelerómetro.
+- entradas: micrófono, cámaras, pantallas táctil, giroscópio, acelerómetro.
 
-salidas: pantalla, altavoces, linterna, motor vibración
+- salidas: pantalla, altavoces, linterna, motor vibración
 
 ARDUINO - 18 pines
 
 Programación - pág 34-35
 Resistencias - página 41. 220 - azules
+
+SwitchState es una viable es de tipo "INT" que signifíca que es un número entero
