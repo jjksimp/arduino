@@ -91,8 +91,6 @@ Morse 2 -
 
 # ¿ Qué hace BLINK.INO ?
 
-vOID LOOG () L
-
 Morse 3 -
 
  digitalWrite(LED_BUILTIN, HIGH);   
