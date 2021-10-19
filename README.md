@@ -10,4 +10,4 @@ Estos son mis enlaces:
 
 - [Interfaz](https://github.com/jjksimp/arduino/blob/main/interfaz.md)
 
-- [Interfaz de nave espacial](https://github.com/jjksimp/arduino/blob/main/interfaz_de_nave_espacial1.ino)
+- [Interfaz de nave espacial](https://github.com/jjksimp/arduino/blob/main/interfaz_de_nave_espacial2.ino)
