@@ -84,4 +84,12 @@ BUG, GLITCH, ERROR, EXCEPCIÓN,LAG.
 - Herramientas / puerto
 - Un minuto aprox y sin desenchufar arduino
 
--- Errores posibles: 
+Morse 1 - Hicimos modificaciones en el código para cambiar tanto el tiempo del brillo. Para eso hicimos cambios en las dos lineas delay (___);
+
+Morse 2 
+
+# Qué hace BLINK.INO
+
+vOID LOOG () L
+
+Morse 3
