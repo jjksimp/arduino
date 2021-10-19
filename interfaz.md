@@ -30,4 +30,7 @@ ARDUINO - 18 pines
 Programación - pág 34-35
 Resistencias - página 41. 220 - azules
 
-SwitchState es una variable es de tipo "INT" que signifíca que es un número entero
+SwitchState = 0;
+SwitchState es una variable es de tipo "INT" que signifíca que es un número entero.
+
+
