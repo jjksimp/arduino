@@ -32,6 +32,4 @@ Resistencias - página 41. 220 - azules
 
 SwitchState = 0;
 SwitchState es una variable es de tipo "INT" que signifíca que es un número entero.
-
-
-![imagen](/home/usuario/Imágenes/Captura de pantalla de 2021-10-19 12-55-24.png)
+![imagen](https://drive.google.com/file/d/16Yn5LPzIPO5nXzCRfw8LmFOTdSPs6ePK/view?usp=sharing)
