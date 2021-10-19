@@ -37,5 +37,5 @@ SwitchState es una variable es de tipo "INT" que signifíca que es un número en
 
 ## Errores:
 
-La mayor parte de los errores de programación fueron por escribir de manera erronea una o dos palabras en el arduino. 
+La mayor parte de los errores de programación fueron por escribir de manera erronea una o dos palabras en el arduino.
 Los errores del circuito fueron por colocar cables de manera incorrecta.
