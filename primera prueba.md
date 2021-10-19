@@ -78,4 +78,8 @@ BUG, GLITCH, ERROR, EXCEPCIÓN,LAG.
 - Tenemos un usuario con permisos
 - Conectamos el arduino por USB 
 - Cargamos el programa BLINK.INO / archivo / ejemplos / 1.basics / blink
-- 
+- Pulsamos el botón subir ( flechita )
+
+- Herramientas/ puerto
+- Un minuto aprox y sin desenchufar arduino
+-- Errores posibles: 
