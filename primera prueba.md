@@ -62,10 +62,6 @@ Tareas de hoy:
 
 Primero abrimos el arduino, probamos si el programa se ejecutaba correctamente y luego editamos el contenido más de una vez, primero en loop yluego escribimos nuestros nombres en morse.
 
-/home/usuario/Imágenes/a/Captura de pantalla de 2021-10-13 12-40-57.png
-/home/usuario/Imágenes/a/Captura de pantalla de 2021-10-13 13-02-14.png
-/home/usuario/Imágenes/a/Captura de pantalla de 2021-10-13 13-33-26.png
-
 ### Errores y excepciones
 
 Operaciones no permitidas por el lenguaje de programación 
