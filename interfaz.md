@@ -26,3 +26,6 @@ entradas: micrófono, cámaras, pantallas táctil, giroscópio, acelerómetro.
 salidas: pantalla, altavoces, linterna, motor vibración
 
 ARDUINO - 18 pines
+
+
+Resistencias - página 41. 220 - azules
