@@ -1,6 +1,8 @@
 Me llamo Abril y este repositorio trata de mis trabajos de Arduino.
 
 - Estos son mis enlaces:
+- 
+[Primer trimestre](https://github.com/jjksimp/1er-trimestre)
 
 [Primera prueba](https://github.com/jjksimp/arduino/blob/main/primera%20prueba.md)
 
