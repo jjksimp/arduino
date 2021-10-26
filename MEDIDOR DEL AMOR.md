@@ -9,10 +9,13 @@ Este es un programa que mide temperatura y enciende LEDs
 - Variable:
 
 Int SwitchState =0;
+
 SwitchState= digitalRead (2);
+
 CONST INT SensorPin = Aø
-______
-const loat baseline Temp = 20.o;
+
+↳ const loat baseline Temp = 20.o;
+
 ▶ número decimal temperatura base
 
 ## Proceso de montaje
