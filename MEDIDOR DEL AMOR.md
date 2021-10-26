@@ -34,6 +34,27 @@ for (int pinNumber= 2; pinNumber< 5 ; pinNumber++ ) {
 Escribir Número (pinNumber)
 }
 
+### For
+
+for (int pinNumber = 2 ; pinNumber < 5 ; pinNumber ++){ variable pinNumber ++ = Suma 1 a pinNumber
+
+PinMode (pinNumber, OUTPUT);
+
+digitalWrite (pinMode,LOW);
+
+PinMode (2,OUTPUT);
+
+DigitalWrite(2,LOW);
+
+PinMode (3,OUTPUT);
+
+digitalWrite (3,Low);
+
+PinMode(4,OUTPUt);
+
+digitalWrite (4,LOW);
+
+For = repetir
 
 ### - LOOP
 
@@ -51,6 +72,13 @@ Serial.print ( sensor val ); → variable ø - 1023
 loat Voltage = (Sensor Val/10240)*5.0;
 Serial.print(voltage);
 
+int sensorVal= analog Read(sensorpin)
+
+if ( temperature<baselinetemp ) {
+
+dw(2,LOW);
+dw(3,LOW);
+dw(4,LOW);
 
 ## Proceso de montaje
 
