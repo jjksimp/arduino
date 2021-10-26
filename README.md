@@ -12,4 +12,4 @@ Estos son mis enlaces:
 
 - [Interfaz de nave espacial](https://github.com/jjksimp/arduino/blob/main/interfaz_de_nave_espacial2.ino)
 
-- [medidor del amor](https://github.com/jjksimp/arduino/edit/main/MEDIDOR%20DEL%20AMOR.md)
+- [medidor del amor](https://github.com/jjksimp/arduino/blob/main/MEDIDOR%20DEL%20AMOR.md)
