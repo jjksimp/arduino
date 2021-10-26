@@ -18,6 +18,8 @@ CONST INT SensorPin = Aø
 
 ▶ número decimal temperatura base
 
+
+
 Setup() {
 
 Serial.begin(9600);
