@@ -40,7 +40,17 @@ Escribir Número (pinNumber)
 int sensorVal= analog Read(sensorpin)
 
 Esta línea lee el voltaje que tiene el pin SensorPin ( en este caso Aø) y 
-lo mapea a valores entre ø y 1023. ø significa øV o GND y 1023 significa SV
+lo mapea a valores entre ø y 1023. ø significa øV o GND y 1023 significa SV.
+
+
+int sensorVal= analog Read(sensorpin)
+Serial.print  ( " sensor value: "); → STRING. Cadena de carácteres
+
+Serial.print ( sensor val ); → variable ø - 1023
+
+loat Voltage = (Sensor Val/10240)*5.0;
+Serial.print(voltage);
+
 
 ## Proceso de montaje
 
