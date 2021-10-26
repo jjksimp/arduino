@@ -80,3 +80,18 @@ dw(3,LOW);
 dw(4,LOW); 
 
 } else } (temperature > = baselinetemp 2 temperature < = baselinetemp +4)
+
+### Tarea:
+
+1)
+- Hacer y documentar medidor de amor
+
+- Calibrar
+
+2) Variantes
+
+- 4 LEDS, 6 LEDS
+- Potenciómetro
+
+
+
