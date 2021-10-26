@@ -28,7 +28,7 @@ Serial.begin(9600);
 
 Inicia la comunicación via USB
 
-for (int pinNumber= Z; pinNumber= S ; pinNumber++ ) {
+for (int pinNumber= 2; pinNumber< 5 ; pinNumber++ ) {
 
   variable 
 Escribir Número (pinNumber)
