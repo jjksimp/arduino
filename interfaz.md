@@ -44,7 +44,6 @@ SwitchState es una variable es de tipo "INT" que signifíca que es un número en
 ![imagen](https://user-images.githubusercontent.com/90753482/137898334-132197f3-919d-458d-987a-c5313d63964a.png)
 
 
-
 ## [Código](https://github.com/jjksimp/arduino/blob/main/interfaz_de_nave_espacial2.ino)
 
 ## Errores:
