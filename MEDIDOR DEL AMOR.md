@@ -2,15 +2,14 @@
 
 ## Resumen
 
-Este es un programa que mide temperatura y enciende LEDs
+Este es un programa que mide temperatura y enciende LEDS
 
-## Introducción teórica
+- Comunicacion SERIAL
+- Variable
 
-### ➤ Variable:
+int SwitchState = 0;
 
-Int SwitchState =0;
-
-SwitchState= digitalRead (2);
+Switch State = digitalRead (2);
 
 CONST INT SensorPin = Aø
 
@@ -19,23 +18,21 @@ CONST INT SensorPin = Aø
 ▶ número decimal temperatura base
 
 
-### ➤ Setup() {
+### ➤ Setup
+
+Setup () {
 
 Serial.begin(9600);
 
 ↑ un objeto
 
+9600 = baudios
+
 Inicia la comunicación via USB
-
-for (int pinNumber= 2; pinNumber< 5 ; pinNumber++ ) {
-
-  variable 
-Escribir Número (pinNumber)
-}
 
 ### ➤ For
 
-for (int pinNumber = 2 ; pinNumber < 5 ; pinNumber ++){ variable pinNumber ++ = Suma 1 a pinNumber
+for (int pinNumber = 2 ; pinNumber < 5 ; pinNumber ++) { variable pinNumber ++ 
 
 PinMode (pinNumber, OUTPUT);
 
@@ -80,4 +77,6 @@ dw(2,LOW);
 
 dw(3,LOW);
 
-dw(4,LOW);
+dw(4,LOW); 
+
+} else } (temperature > = baselinetemp 2 temperature < = baselinetemp +4)
