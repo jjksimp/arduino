@@ -75,13 +75,14 @@ PIN 3-----LED/-----  WW---- GND
 
 ### 1)
 
-- Volvimos a armar el circuíto de la misma manera que antes, (referencia: página 34) y programamos el Arduino
+- Volvimos a armar el circuíto de la misma manera que antes, (referencia: página 34) y programamos el Arduino también
 de igual forma. 
 
 Tuvimos un pequeño error a la hora de armar el circuíto; las luces no reaccionaban al botón poque ambos estaban en GND. Se resolvió conectando el cable correspondiente al 5V. Una vez el arreglamos el cable, el circuito funcionó correctamente.
 
 
 ![imagen](https://mail.google.com/mail/u/0?ui=2&ik=6ed6f8c2b4&attid=0.1&permmsgid=msg-f:1714670485054215748&th=17cbbbb8b080d644&view=att&disp=safe&realattid=f_kv7tzvpn0)
+
 
 
 2)
