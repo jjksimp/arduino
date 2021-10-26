@@ -69,6 +69,6 @@ PIN 3-----LED/-----  WW---- GND
 
 
 
-## Tareas:
+### Tareas:
 1) Documentar y hacer interfaz de nave.md
 2) Hacer una variación del botón por hardware.
