@@ -80,6 +80,9 @@ de igual forma.
 
 Tuvimos un pequeño error a la hora de armar el circuíto; las luces no reaccionaban al botón poque ambos estaban en GND. Se resolvió conectando el cable correspondiente al 5V.
 
+
+![imagen](/home/usuario/Descargas/20211026_102836(1).jpg)
+
 2)
 
 
