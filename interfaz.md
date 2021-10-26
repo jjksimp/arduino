@@ -70,3 +70,15 @@ PIN 3-----LED/-----  WW---- GND
 ### Tareas:
 1) Documentar y hacer interfaz de nave.md
 2) Hacer una variación del botón por hardware.
+
+
+
+### 1)
+
+- Volvimos a armar el circuíto de la misma manera que antes, (referencia: página 34) y programamos el Arduino
+de igual forma. 
+
+Tuvimos un pequeño error a la hora de armar el circuíto; las luces no reaccionaban al botón poque ambos estaban en GND. Se resolvió conectando el cable correspondiente al 5V.
+
+
+
