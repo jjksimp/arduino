@@ -13,7 +13,7 @@
 ### código
 - explicar "explica el código"
 - enlace al código utilizado
-- 
+
 ### Resultado
 Foto/ video/ funciona o no.
 
