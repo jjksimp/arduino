@@ -87,7 +87,7 @@ dw(4,LOW);
 - Hacer y documentar medidor de amor
 
 - Calibrar
-- 
+ 
 ![imagen](https://user-images.githubusercontent.com/90753482/138873014-178c3dac-098d-40a1-9d41-f07c47e0acf6.png)
 ![imagen](https://user-images.githubusercontent.com/90753482/138873048-26271f05-640d-4901-97df-b884bab4a3a5.png)
 
