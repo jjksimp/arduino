@@ -36,6 +36,6 @@ PIN 3-----LED/-----  WW---- GND
 
 2 - Texto
 
-3 - FOtos
+3 - Fotos
 
 4 - Enlaces
