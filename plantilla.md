@@ -23,10 +23,12 @@ Foto/ video/ funciona o no.
 Vamos a añadir un botón al pin 3 de tal forma que solo cuando se pulse el led 3 se encienda. El resto del proyecto
 ( hardware y software ) es el mismo.
 
-Antes    led   220 
+Antes    LED   220 
+
 Pin 3-----/-----ww ---- GND
 
 Después
+
 PIN 3-----/-----  WW---- GND
 
 1 - Estructura
