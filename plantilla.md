@@ -9,7 +9,7 @@
 - Circuíto (explicar o dibujar)
 - Foto del circuito 
 - Problemas y soluciones
-- 
+
 ### código
 - explicar "explica el código"
 - enlace al código utilizado
@@ -25,13 +25,17 @@ Vamos a añadir un botón al pin 3 de tal forma que solo cuando se pulse el led 
 
 Antes    LED   220 
 
-Pin 3-----/-----ww ---- GND
+Pin 3-----LED/-----ww ---- GND
 
 Después
 
-PIN 3-----/-----  WW---- GND
+PIN 3-----LED/-----  WW---- GND
+
 
 1 - Estructura
+
 2 - Texto
+
 3 - FOtos
+
 4 - Enlaces
