@@ -59,11 +59,11 @@ Los errores del circuito fueron por colocar cables de manera incorrecta.
 Vamos a añadir un botón al pin 3 de tal forma que solo cuando se pulse el led 3 se encienda. El resto del proyecto
 ( hardware y software ) es el mismo.
 
-Antes    LED   220 
+   Antes    LED   220 
 
 Pin 3-----LED/-----ww ---- GND
 
-Después
+   Después
 
 PIN 3-----LED/-----  WW---- GND
 
