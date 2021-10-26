@@ -6,7 +6,7 @@ Este es un programa que mide temperatura y enciende LEDs
 
 ## Introducción teórica
 
-### - Variable:
+### ➤ Variable:
 
 Int SwitchState =0;
 
@@ -19,8 +19,7 @@ CONST INT SensorPin = Aø
 ▶ número decimal temperatura base
 
 
-
-### - Setup() {
+### ➤ Setup() {
 
 Serial.begin(9600);
 
@@ -34,7 +33,7 @@ for (int pinNumber= 2; pinNumber< 5 ; pinNumber++ ) {
 Escribir Número (pinNumber)
 }
 
-### For
+### ➤ For
 
 for (int pinNumber = 2 ; pinNumber < 5 ; pinNumber ++){ variable pinNumber ++ = Suma 1 a pinNumber
 
@@ -56,25 +55,26 @@ digitalWrite (4,LOW);
 
 For = repetir
 
-### - LOOP
+### ➤ LOOP
 
 int sensorVal= analog Read(sensorpin)
 
 Esta línea lee el voltaje que tiene el pin SensorPin ( en este caso Aø) y 
 lo mapea a valores entre ø y 1023. ø significa øV o GND y 1023 significa SV.
 
-
 int sensorVal= analog Read(sensorpin)
+
 Serial.print  ( " sensor value: "); → STRING. Cadena de carácteres
 
 Serial.print ( sensor val ); → variable ø - 1023
 
-loat Voltage = (Sensor Val/10240)*5.0;
+Loat Voltage =(sensorVal/10240 ) * 5.0; Serial.print (",Volts:"); 
+
 Serial.print(voltage);
 
 int sensorVal= analog Read(sensorpin)
 
-if ( temperature<baselinetemp ) {
+if ( temperature < baselinetemp ) {
 
 dw(2,LOW);
 dw(3,LOW);
