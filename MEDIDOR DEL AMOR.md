@@ -24,9 +24,9 @@ Setup() {
 
 Serial.begin(9600);
 
-↑ 
+↑ un objeto
 
-un objeto
+Inicia la comunicación via USB
 
 ## Proceso de montaje
 
