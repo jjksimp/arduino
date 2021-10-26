@@ -77,5 +77,7 @@ int sensorVal= analog Read(sensorpin)
 if ( temperature < baselinetemp ) {
 
 dw(2,LOW);
+
 dw(3,LOW);
+
 dw(4,LOW);
