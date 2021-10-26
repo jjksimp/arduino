@@ -91,6 +91,7 @@ dw(4,LOW);
 2) Variantes
 
 - 4 LEDS, 6 LEDS
+
 - Potenciómetro
 
 
