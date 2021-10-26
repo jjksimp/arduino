@@ -27,6 +27,11 @@ Serial.begin(9600);
 ↑ un objeto
 
 Inicia la comunicación via USB
+for (int pinNumber= Z; pinNumber= S ; pinNumber++ ) {
+variable 
+Escribir Número (pinNumber)
+}
+
 
 ## Proceso de montaje
 
