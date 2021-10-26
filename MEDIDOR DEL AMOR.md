@@ -38,9 +38,9 @@ Escribir Número (pinNumber)
 ### - LOOP
 
 int sensorVal= analog Read(sensorpin)
-Esta línea lee el voltaje que tiene el pin
-SensorPin ( en este caso Aø) y lo mapea a valores entre ø y 1023.
-ø significa øV o GND y 1023 significa SV
+
+Esta línea lee el voltaje que tiene el pin SensorPin ( en este caso Aø) y 
+lo mapea a valores entre ø y 1023. ø significa øV o GND y 1023 significa SV
 
 ## Proceso de montaje
 
