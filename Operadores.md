@@ -79,3 +79,11 @@ LED 2 -- PIN5
 ![Captura de pantalla de 2021-11-03 10-45-20](https://user-images.githubusercontent.com/90753482/140038866-a842d13e-41c7-4e14-b3e0-65e5c97c79b4.png)
 
 
+### Añadir digitalWrite:
+
+1. La primera vez dió error porque el "if" no estaba dentro de la llav del loop.  
+![Captura de pantalla de 2021-11-03 12-01-37](https://user-images.githubusercontent.com/90753482/140050349-2636282a-bcf1-440d-82de-619560939749.png)
+![Captura de pantalla de 2021-11-03 12-08-14](https://user-images.githubusercontent.com/90753482/140050360-c2264652-d5f7-406c-bc0a-79df68385c50.png)
+
+
+
