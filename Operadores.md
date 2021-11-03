@@ -89,6 +89,7 @@ LED 2 -- PIN5
 ![Captura de pantalla de 2021-11-03 12-01-37](https://user-images.githubusercontent.com/90753482/140050349-2636282a-bcf1-440d-82de-619560939749.png)
 ![Captura de pantalla de 2021-11-03 12-31-46](https://user-images.githubusercontent.com/90753482/140052906-59183257-819f-4dcb-acfb-9c2892c56a3f.png)
 
+------
 
 ### [EJERCICIO 1:](https://github.com/jjksimp/arduino/blob/main/operadores_ejercicio1.ino) 
 Pulsar ambos botones para que las luces se enciendan.
