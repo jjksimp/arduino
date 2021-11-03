@@ -73,7 +73,7 @@ Botón 2 -- PIN3
 LED 1 -- PIN4
 
 LED 2 -- PIN5
-
+-----
 ###  [Arduino prueba](https://github.com/jjksimp/arduino/blob/main/sketch_nov03a.ino)
 
 ![Captura de pantalla de 2021-11-03 10-45-20](https://user-images.githubusercontent.com/90753482/140038866-a842d13e-41c7-4e14-b3e0-65e5c97c79b4.png)
