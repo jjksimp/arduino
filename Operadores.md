@@ -28,7 +28,6 @@ DigitalWrite ( 4 ; LOW ); o DigitalWrite (4,0); se desactivaran los numeros de l
 Si es high se activaran 5V a los numeros de los pines.
 
 
-
 } ELSE IF ( temperature >= baselinetemp + 2 &&
 
 temperature < baselinetemp + 4 ) }
@@ -52,10 +51,12 @@ PIN ---- PULSADOR ---- GND
 
 Esquema del botón "por defecto arriba" o "PULLED - HIGH"
 
-2 botones. uno al pin, pin 3
+2 botones. uno al pin 2 , pin 3
 
 PIN ----ww-----GND
-    LED
+
+       Led
+    
 Da igual si la resistencia va detrás o delante del LED.
 
 Conectamos 2 LEDS, Uno al pin  4 y otro al 5.
@@ -66,6 +67,13 @@ La pata más corta va hacia el GND (0 v) y la larga hacia el voltaje.
 
 
 Botón 1 -- PIN2
+
 Botón 2 -- PIN3
+
 LED 1 -- PIN4
+
 LED 2 -- PIN5
+
+![Captura de pantalla de 2021-11-03 10-45-20](https://user-images.githubusercontent.com/90753482/140038866-a842d13e-41c7-4e14-b3e0-65e5c97c79b4.png)
+
+
