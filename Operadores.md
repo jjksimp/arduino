@@ -63,4 +63,9 @@ Conectamos 2 LEDS, Uno al pin  4 y otro al 5.
 Para poner un LED necesitamos una resistencia de 220Ω , las de un cuerpo azul. Hay que tener en cuenta la polaridad del LED.
 
 La pata más corta va hacia el GND (0 v) y la larga hacia el voltaje.
-    
+
+
+Botón 1 -- PIN2
+Botón 2 -- PIN3
+LED 1 -- PIN4
+LED 2 -- PIN5
