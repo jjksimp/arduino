@@ -91,5 +91,5 @@ LED 2 -- PIN5
 
 
 ### [EJERCICIO 1:](https://github.com/jjksimp/arduino/blob/main/operadores_ejercicio1.ino) 
-pulsar ambos botones para que las luces se enciendan.
+Pulsar ambos botones para que las luces se enciendan.
 
