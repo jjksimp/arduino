@@ -55,7 +55,7 @@ Esquema del botón "por defecto arriba" o "PULLED - HIGH"
 
 PIN ----ww-----GND
 
-       Led
+       LED
     
 Da igual si la resistencia va detrás o delante del LED.
 
