@@ -38,4 +38,16 @@ DW(3, LOW)
 
 DW(4, LOW)
 
-} else if
+- EJERCICIO:
+Vamos a conectar 2 botones y 2 LEDS
+
+Haremos diferentes programas con diferentes comportamientos.
+
+Para poner un botón necesitamos una resistencia de 10.000 ohmnios. Estas son las que tienen cuerpo beige y una línea naranja.
+
+PIN ---- PULSADOR ---- GND
+
+5V --|10K H.
+
+Esquema del botón "por defecto arriba" o "PULLED - HIGH"
+2 botones. uno al pin, pin 3
