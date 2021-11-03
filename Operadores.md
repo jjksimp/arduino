@@ -11,8 +11,9 @@ Sensor Value 0 - 1024
 
 ------
 
-- DigitalWrite: 
-DigitalWrite(2;LOW) es una función que nos pide un número de pin y el valor HIGH (1) o LOW(0)
+### - DigitalWrite:
+ 
+DigitalWrite es una función que nos pide un número de pin y el valor HIGH (1) o LOW(0)
 
 Si el valor es HIGH, la placa suministrará 5V en ese pin
 
@@ -38,16 +39,28 @@ DW(3, LOW)
 
 DW(4, LOW)
 
-- EJERCICIO:
+### - EJERCICIO:
 Vamos a conectar 2 botones y 2 LEDS
 
 Haremos diferentes programas con diferentes comportamientos.
 
-Para poner un botón necesitamos una resistencia de 10.000 ohmnios. Estas son las que tienen cuerpo beige y una línea naranja.
+Para poner un botón necesitamos una resistencia de 10.000Ω (ohmnios). Estas son las que tienen cuerpo beige y una línea naranja.
 
 PIN ---- PULSADOR ---- GND
 
 5V --|10K H.
 
 Esquema del botón "por defecto arriba" o "PULLED - HIGH"
+
 2 botones. uno al pin, pin 3
+
+PIN ----ww-----GND
+    LED
+Da igual si la resistencia va detrás o delante del LED.
+
+Conectamos 2 LEDS, Uno al pin  4 y otro al 5.
+
+Para poner un LED necesitamos una resistencia de 220Ω , las de un cuerpo azul. Hay que tener en cuenta la polaridad del LED.
+
+La pata más corta va hacia el GND (0 v) y la larga hacia el voltaje.
+    
