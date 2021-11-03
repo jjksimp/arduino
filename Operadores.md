@@ -98,6 +98,6 @@ Pulsar ambos botones para que las luces se enciendan.
 Pulsar 1 o ambos botones para que las luces se enciendan
 
 ### [EJERCICIO 3:](https://github.com/jjksimp/arduino/blob/main/operadores_ejercicio3.ino)
-Las luces se mantienen encendidas a menos que se presione el botón
+Las luces se mantienen encendidas a menos que se presione el botón 2 o ambos botones.
 
 
