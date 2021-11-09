@@ -51,6 +51,7 @@ MAPEAR:
 
 1024= 4. 256 --- 256 = 1024/4
 
+### Ejercicio:
 
 - Este proyecto está hecho con Ángel.
 
