@@ -54,7 +54,7 @@ MAPEAR:
 
 - Este proyecto está hecho con Ángel.
 
-[Imagen de referencia para el circuito](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/IMG20211103140539.jpg)
+➡ [Imagen de referencia para el circuito](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/IMG20211103140539.jpg)
 
 ![Captura de pantalla de 2021-11-09 10-41-21](https://user-images.githubusercontent.com/90753482/140900799-0196615f-31af-460e-b2ee-e48de998ff10.png)
 
