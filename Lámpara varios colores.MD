@@ -53,7 +53,8 @@ MAPEAR:
 
 ### Ejercicio:
 
-- Este proyecto está hecho con Ángel.
+- Este proyecto está hecho con Ángel. 
+- Programación de la página 57.
 
 ➡ [Imagen de referencia para armar el circuito](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/IMG20211103140539.jpg) (github de Miguel Angel)
 
