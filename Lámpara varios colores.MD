@@ -50,3 +50,9 @@ Le asigna un espacio en memoria otros tipos
 MAPEAR:
 
 1024= 4. 256 --- 256 = 1024/4
+
+
+- Este proyecto está hecho con Ángel.
+
+![Captura de pantalla de 2021-11-09 10-41-21](https://user-images.githubusercontent.com/90753482/140900799-0196615f-31af-460e-b2ee-e48de998ff10.png)
+
