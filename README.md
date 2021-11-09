@@ -15,3 +15,5 @@ Estos son mis enlaces:
 - [medidor del amor](https://github.com/jjksimp/arduino/blob/main/MEDIDOR%20DEL%20AMOR.md)
 
 - [Operadores](https://github.com/jjksimp/arduino/blob/main/Operadores.md)
+
+- [Lámpara de varios colores](https://github.com/jjksimp/arduino/blob/main/L%C3%A1mpara%20varios%20colores.MD)
