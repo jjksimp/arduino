@@ -47,3 +47,6 @@ Le asigna un espacio en memoria otros tipos
 - char - un único caracter
 - float - números decimales
 
+MAPEAR:
+
+1024= 4. 256 --- 256 = 1024/4
