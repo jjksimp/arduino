@@ -57,7 +57,8 @@ MAPEAR:
 
 - Este proyecto está hecho con Ángel. 
 - Programación de la página 57.
-- No hubo ningún error al hacer la programación, si hubo en el circuito que a la primera la luz no se encendía.
+- Parecía no haber ningún error al hacer la programación a la primera, y creímos que había un error del circuito porque la luz no se encendía, pero era poque
+detrás de la página la programación seguía y no la copiamos al no verla. Cuando la programación fue copiada completa el circuito funcionó correctamente.
 
 ### 1. Variaciones ↴
 
