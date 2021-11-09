@@ -67,7 +67,7 @@ MAPEAR:
 
 ➡ [Imagen de referencia para armar el circuito](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/IMG20211103140539.jpg) (github de Miguel Angel)
 
-➡ [Archivo](https://github.com/jjksimp/arduino/blob/main/L_mpara_varios_colores.ino)
+➡ [Archivo](https://github.com/jjksimp/arduino/blob/main/Lampara_varios_colores.ino)
 
 ![Captura de pantalla de 2021-11-09 10-41-21](https://user-images.githubusercontent.com/90753482/140900799-0196615f-31af-460e-b2ee-e48de998ff10.png)
 
