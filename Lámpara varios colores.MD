@@ -37,7 +37,7 @@ La función nos pide 2 cosas; por un lado el número de PIN, por otro lado un n�
 
 255 ➡ 100% de voltaje (5V)
 
-INT - integez. número entero
+INT - integer. número entero
 
 Significa que nuestra variable es un tipo de dato numérico no decimal.
 Le asigna un espacio en memoria otros tipos
@@ -46,3 +46,4 @@ Le asigna un espacio en memoria otros tipos
 - bool - boleano y es verdadero (true) o falso (false)
 - char - un único caracter
 - float - números decimales
+
