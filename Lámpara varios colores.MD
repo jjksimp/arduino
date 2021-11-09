@@ -1,4 +1,4 @@
-### PWM (Pulse width modulation)
+## PWM (Pulse width modulation)
 Modulación por ancho de pulsos.
 
 - Problema: tengo un arduino que suministra 5V a un LED
@@ -19,7 +19,7 @@ Entonces si conecto un LED con su resistencia de 220 ohmnios.
 
 PULSO ➡ Una señal
 
-### ¿ Qué es un pulso ?
+## ¿ Qué es un pulso ?
 
 Un pulso eléctrico es una señal de voltaje medida en el tiempo
 
@@ -55,6 +55,12 @@ MAPEAR:
 
 - Este proyecto está hecho con Ángel. 
 - Programación de la página 57.
+
+### 1. Variaciones ↴
+
+⇨ HARDWARE: botones en vez de potenciómetros.
+
+⇨ SOFTWARE: valores diferentes
 
 ➡ [Imagen de referencia para armar el circuito](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/IMG20211103140539.jpg) (github de Miguel Angel)
 
