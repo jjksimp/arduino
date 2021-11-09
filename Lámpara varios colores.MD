@@ -7,7 +7,7 @@ A mayor intensidad de corriente (A -amperios) el LED brilla más.
 
 A menor intensidad de corriente el LED brilla menos (ver ley de OHM, pág 30)
 
-➡ I = V/R. 
+⇨ I = V/R. 
 
 Si subimos o bajamos el voltaje, haremos lo mismo con la intensidad.
 
@@ -17,7 +17,7 @@ Entonces si conecto un LED con su resistencia de 220 ohmnios.
 
 ¿ Brillará más a un voltaje de 5V o de 3,3V ? El LED brillará más con 5V y menos con 3,3V.
 
-PULSO ➡ Una señal
+PULSO ⇨  Una señal
 
 ## ¿ Qué es un pulso ?
 
@@ -33,9 +33,9 @@ Los pines con PWm estás marcados con el símbolo ~ ( la tílde de la tecla Ñ)
 
 La función nos pide 2 cosas; por un lado el número de PIN, por otro lado un número entre 0 y 255 
 
-0 ➡ 0% de voltaje
+0 ⇨ 0% de voltaje
 
-255 ➡ 100% de voltaje (5V)
+255 ⇨ 100% de voltaje (5V)
 
 INT - integer. número entero
 
