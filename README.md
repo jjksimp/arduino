@@ -20,7 +20,7 @@ Estos son mis enlaces:
 
 🪐  [Lámpara de varios colores](https://github.com/jjksimp/arduino/blob/main/L%C3%A1mpara%20varios%20colores.MD)
 
-[Medidor de estado de ánimo]()
+🪐  [Medidor de estado de ánimo](https://github.com/jjksimp/arduino/blob/main/Medidor%20de%20estado%20de%20%C3%A1nimo.md)
 
 🪐  [Theremin óptico](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP) (no es mío porque falté)
 
