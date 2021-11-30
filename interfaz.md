@@ -3,7 +3,7 @@
 ## Resumen
 
  El LED verde permanecerá encendido hasta que pulses un botón. Cuando el Arduino reciba una señal de botón, la luz verde
-se apagará y las otras dos luces empezarásn a parpadear.
+se apagará y las otras dos luces empezarán a parpadear.
 ## Introducción teórica
 
 - construir circuito
