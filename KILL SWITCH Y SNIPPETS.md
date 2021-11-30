@@ -26,7 +26,7 @@ A [este proyecto](https://github.com/jjksimp/arduino/blob/main/interfaz.md) voy 
 🔖 Ahora alteramos la programación para que sea necesario apretar el botón(2) para encender o apagar las luces.
 Cuando lo presionas se enciende la luz roja, y para encender las otras dos presionas el otro botón(1), pero si vuelves a presionar el botón(2) las luces se apagarán.
 
-[Aquí](https://github.com/jjksimp/arduino/blob/main/interfaz_con_kill_switch_terminada.ino) está el código terminado.
+- [Aquí](https://github.com/jjksimp/arduino/blob/main/interfaz_con_kill_switch_terminada.ino) está el código terminado.
 
 📷 Capturas del proceso de programación: 📷
 ------
