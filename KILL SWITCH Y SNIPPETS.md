@@ -2,9 +2,7 @@
 
 Snippet (fuente)
 
-1. Montar proyecto escogido.
-
-+  AÑADIR BOTÓN QUE ANULE
+1. Montar proyecto escogido +  añadir botón que anule
 
 Vamos a añadir una funcionalidad a un proyecto anterior.
 En el grupo estoy yo. Y voy a hacer el proyecto de la interfaz de nave espacial.
