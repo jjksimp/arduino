@@ -20,6 +20,6 @@ Estos son mis enlaces:
 
 🪐  [Lámpara de varios colores](https://github.com/jjksimp/arduino/blob/main/L%C3%A1mpara%20varios%20colores.MD)
 
-🪐  [Theremin óptico](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP) (no es mío poque falté)
+🪐  [Theremin óptico](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP) (no es mío porque falté)
 
 ![imagen](https://user-images.githubusercontent.com/90753482/144020774-a9bb169f-5d08-4586-bfe0-553225af2204.png)
