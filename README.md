@@ -8,7 +8,7 @@ Estos son mis enlaces:
 
 🪐  [Morse](https://github.com/jjksimp/arduino/blob/main/morse_3_abril_vitas.ino)
 
-🪐 [Plantilla](https://github.com/jjksimp/arduino/blob/main/plantilla.md)
+🪐  [Plantilla](https://github.com/jjksimp/arduino/blob/main/plantilla.md)
 
 🪐  [Interfaz](https://github.com/jjksimp/arduino/blob/main/interfaz.md)
 
@@ -19,6 +19,8 @@ Estos son mis enlaces:
 🪐  [Operadores](https://github.com/jjksimp/arduino/blob/main/Operadores.md)
 
 🪐  [Lámpara de varios colores](https://github.com/jjksimp/arduino/blob/main/L%C3%A1mpara%20varios%20colores.MD)
+
+[Medidor de estado de ánimo]()
 
 🪐  [Theremin óptico](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP) (no es mío porque falté)
 
