@@ -2,8 +2,9 @@
 
 Snippet (fuente)
 
-1. Montar proyecto escogido +  añadir botón que anule
+1. Montar proyecto escogido +  añadir botón que anule todo
 
 Vamos a añadir una funcionalidad a un proyecto anterior.
 En el grupo estoy yo. Y voy a hacer el proyecto de la interfaz de nave espacial.
+
 A [este proyecto](https://github.com/jjksimp/arduino/blob/main/interfaz.md) voy a añadir un botón que lo apague y lo encienda.
