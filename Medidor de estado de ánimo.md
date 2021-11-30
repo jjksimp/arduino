@@ -2,8 +2,7 @@
 
 (Este día el github no andaba así que yo tomé los apuntes en Officer Writer)
 
-Indicador de estado de animo
-(enlace a circuitos eléctricos)
+[Indicador de estado de animo](https://github.com/jjksimp/arduino/blob/main/indicador_de_animo.ino)
 
 - Dibujar un indicador de estado en una hoja en blanco con 5 “niveles” del estado de animo; yo clasifiqué los niveles del estado de animo con caritas felices, tristes, etc, en lugar de escribir.
 -Armar el arduino con el modelo de la página 64 y hay que programarlo ; página 67
