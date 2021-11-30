@@ -22,4 +22,7 @@ Estos son mis enlaces:
 
 🪐  [Theremin óptico](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP) (no es mío porque falté)
 
+🪐  [KillSwitch y Snippet](https://github.com/jjksimp/arduino/blob/main/KILL%20SWITCH%20Y%20SNIPPETS.md)
+
 ![imagen](https://user-images.githubusercontent.com/90753482/144020774-a9bb169f-5d08-4586-bfe0-553225af2204.png)
+
