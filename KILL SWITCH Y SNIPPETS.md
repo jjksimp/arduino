@@ -17,4 +17,4 @@ A [este proyecto](https://github.com/jjksimp/arduino/blob/main/interfaz.md) voy 
 🔖 A la programación del proyecto de la nave espacial se le tuvo que hacer algunas modificaciones al código poque ciertas variables ya habían sido escritas en el programa cuando el proyecto se hizo originalmente. Al agregar las nuevas variables tuve que cambiar, por ejemplo tuve que cambiar el nombre del SwitchState a SwitchStateKill, y el "pinMode(ledPin, OUTPUT)" a "pinMode(buttonPin, INPUT)" porque estaba mal escrito en el Snippet.
 
 
-🔖 En cuanto al circuito se le agregó un botón nuevo al pin 6~.
+🔖 En cuanto al circuito se le agregó un botón nuevo al pin 6~
