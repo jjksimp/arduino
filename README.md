@@ -8,6 +8,8 @@ Estos son mis enlaces:
 
 🪐  [Morse](https://github.com/jjksimp/arduino/blob/main/morse_3_abril_vitas.ino)
 
+🪐 [Plantilla]
+
 🪐  [Interfaz](https://github.com/jjksimp/arduino/blob/main/interfaz.md)
 
 🪐  [Interfaz de nave espacial](https://github.com/jjksimp/arduino/blob/main/interfaz_de_nave_espacial2.ino)
