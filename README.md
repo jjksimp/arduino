@@ -12,7 +12,7 @@ Estos son mis enlaces:
 
 🪐  [Interfaz de nave espacial](https://github.com/jjksimp/arduino/blob/main/interfaz.md)
 
-🪐  [medidor del amor](https://github.com/jjksimp/arduino/blob/main/MEDIDOR%20DEL%20AMOR.md)
+🪐  [Medidor del amor](https://github.com/jjksimp/arduino/blob/main/MEDIDOR%20DEL%20AMOR.md)
 
 🪐  [Operadores](https://github.com/jjksimp/arduino/blob/main/Operadores.md)
 
@@ -23,6 +23,8 @@ Estos son mis enlaces:
 🪐  [Theremin óptico](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP) (no es mío porque falté)
 
 🪐  [KillSwitch y Snippet](https://github.com/jjksimp/arduino/blob/main/KILL%20SWITCH%20Y%20SNIPPETS.md)
+
+🪐  [Instrumento de teclado](https://github.com/jjksimp/arduino/blob/main/INSTRUMENTO%20DE%20TECLADO.md)
 
 ![imagen](https://user-images.githubusercontent.com/90753482/144020774-a9bb169f-5d08-4586-bfe0-553225af2204.png)
 
