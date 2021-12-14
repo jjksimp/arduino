@@ -19,3 +19,6 @@ y a veces no. El error se solucionó al cambiar uno de los cables por otro.
 
 - [Documentación de Hanzla](https://github.com/Hanzla55/Arduino/blob/main/INSTRUMENTO%20DE%20TECLADO.md) 
 
+### 2) Código con SwitchKill
+
+![Screenshot 2021-12-14 at 13-07-01 Hanzla55 Arduino](https://user-images.githubusercontent.com/90753482/145995419-e3bcc724-b190-4389-ab9a-81a2fc228bc8.png)
