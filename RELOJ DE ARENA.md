@@ -33,3 +33,6 @@ Tilt sensor o mejor llamado interruptor de inclinación en un sensor de encendid
 Resistencias azules -- LED 
 
 - circuito: arduino, 6 luces led, interuptor de inclinación, resistencias, cables.
+![Captura de pantalla de 2022-01-12 13-51-30](https://user-images.githubusercontent.com/90753482/149143752-dc81df18-5af0-4178-9f25-c26d616cddbd.png)
+
+
