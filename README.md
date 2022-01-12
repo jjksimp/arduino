@@ -28,6 +28,10 @@ Estos son mis enlaces:
 
 🪐  [Villancicos](https://github.com/jjksimp/arduino/blob/main/VILLANCICOS.md)
 
+[ Reloj de arena](https://github.com/jjksimp/arduino/blob/main/RELOJ%20DE%20ARENA.md)
+
+[ Bola de cristal](https://github.com/jjksimp/arduino/blob/main/BOLA%20DE%20CRISTAL.md)
+
 ( wb//328 )
  
 ![imagen](https://user-images.githubusercontent.com/90753482/144020774-a9bb169f-5d08-4586-bfe0-553225af2204.png)
