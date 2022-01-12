@@ -15,3 +15,5 @@ Página: 115
  de poder andar correctamente. 
  
  - Código de programcaión [AQUÍ](https://github.com/jjksimp/arduino/blob/main/Bola_de_cristal.ino) 
+
+![Captura de pantalla de 2022-01-12 13-48-55](https://user-images.githubusercontent.com/90753482/149143556-89d636dd-9daa-4953-9dd4-0e0253a4a2df.png)
