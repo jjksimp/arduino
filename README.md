@@ -28,11 +28,13 @@ Estos son mis enlaces:
 
 🪐  [Villancicos](https://github.com/jjksimp/arduino/blob/main/VILLANCICOS.md)
 
-- [ Reloj de arena](https://github.com/jjksimp/arduino/blob/main/RELOJ%20DE%20ARENA.md)
+🪐 [ Reloj de arena](https://github.com/jjksimp/arduino/blob/main/RELOJ%20DE%20ARENA.md)
 
-- [ Bola de cristal](https://github.com/jjksimp/arduino/blob/main/BOLA%20DE%20CRISTAL.md)
+🪐 [ Bola de cristal](https://github.com/jjksimp/arduino/blob/main/BOLA%20DE%20CRISTAL.md)
 
-- [Cerrojo de puerta](https://github.com/jjksimp/arduino/blob/main/CERROJO%20DE%20PUERTA.md)
+🪐 [Cerrojo de puerta](https://github.com/jjksimp/arduino/blob/main/CERROJO%20DE%20PUERTA.md)
+
+🪐 [Lámpara táctil](https://github.com/jjksimp/arduino/blob/main/L%C3%81MPARA%20T%C3%81CTIL.md)
 
 ( wb//340 !! SL//170 !! spn//s4e13)
  
