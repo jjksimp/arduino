@@ -32,7 +32,7 @@ Estos son mis enlaces:
 
 - [ Bola de cristal](https://github.com/jjksimp/arduino/blob/main/BOLA%20DE%20CRISTAL.md)
 
--[Cerrojo de puerta](https://github.com/jjksimp/arduino/blob/main/CERROJO%20DE%20PUERTA.md)
+- [Cerrojo de puerta](https://github.com/jjksimp/arduino/blob/main/CERROJO%20DE%20PUERTA.md)
 
 ( wb//340 !! SL//170 !! spn//s4e13)
  
