@@ -11,7 +11,7 @@ void setup(){
 }
 
 void loop (){
-  long sensoValue= capSensor.capacitiveSensor(30);
+  long sensorValue= capSensor.capacitiveSensor(30);
   Serial.println(sensorValue);
 
   if(sensorValue > threshold){
