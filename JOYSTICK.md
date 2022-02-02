@@ -37,6 +37,8 @@ determinado suene una pequeña nota en un altavoz.
 Al hacer la variación 1 tuve un par de problemas con el arduino porque la luz LED que yo había usado estaba fundida, y además no me dí 
 cuenta de que faltaba un cable. Luego de haber arreglado estos pequeños errores el Led encendió.
 
+- [Código](https://github.com/jjksimp/arduino/blob/main/joystickvariacion1.ino)
+
 ------
 
 ![Captura de pantalla de 2021-11-30 13-21-50](https://user-images.githubusercontent.com/90753482/152125033-22cc511d-546f-4975-a0db-ea31dd9572ff.png)
