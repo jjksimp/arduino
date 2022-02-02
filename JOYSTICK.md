@@ -49,6 +49,23 @@ cuenta de que faltaba un cable. Luego de haber arreglado estos pequeños errores
 ### VARIACIÓN 2:
 
 Consiste en hacer un "radar", en el cual al mover el joystick hasta cierto punto te encuentras con un punto/objeto en el eje Y o X. No
-solo utiliza el joystick, también se necesita un altavoz-
+solo utiliza el joystick, también se necesita un altavoz.
 
 (Aún no hecho)
+
+
+------
+
+### KY-015:
+
+ [Fantasy studio](https://www.fantasystudios.es/arduino/pages/Componentes/placas/sensores/sensor_ky-015.html)
+
+PINES:
+
+- Pin 1: a la salida del sensor
+- Pin 2: alimentación positiva (5v)
+- Pin 3: alimentación negativa (ground)
+
+------ 
+![Captura de pantalla de 2022-02-02 12-28-27](https://user-images.githubusercontent.com/90753482/152145547-2eec0b0a-bc20-4467-b786-e33358fcf23a.png)
+
