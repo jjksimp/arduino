@@ -36,6 +36,8 @@ Estos son mis enlaces:
 
 🪐 [Lámpara táctil](https://github.com/jjksimp/arduino/blob/main/L%C3%81MPARA%20T%C3%81CTIL.md)
 
+🪐 [Joystick](https://github.com/jjksimp/arduino/blob/main/JOYSTICK.md)
+
 ( wb//340 !! SL//170 !! spn//s4e13)
  
 ![imagen](https://user-images.githubusercontent.com/90753482/144020774-a9bb169f-5d08-4586-bfe0-553225af2204.png)
