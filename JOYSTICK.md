@@ -66,6 +66,8 @@ PINES:
 - Pin 2: alimentación positiva (5v)
 - Pin 3: alimentación negativa (ground)
 
+[Código](https://github.com/jjksimp/arduino/blob/main/PRUEBASENSORK015.ino)
+
 ------ 
 
 ![Captura de pantalla de 2022-02-02 12-28-27](https://user-images.githubusercontent.com/90753482/152145547-2eec0b0a-bc20-4467-b786-e33358fcf23a.png)
