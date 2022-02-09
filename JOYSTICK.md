@@ -62,7 +62,8 @@ solo utiliza el joystick, también se necesita un altavoz.
  
  Este proyecto consiste en medir la humedad y temperatura con un sensor KY-015 con ayuda de la página Fantasy studio que está arriba.
  Los pasos que la página indicaba también incluían indicaciones para añadir el sensor DHT22 que al no usarlo nosotros para el proyecto
-fueron omitidos, también los códigos de programación que pertenecían al sensor fueron quitados, lo cual redujo el código entero a mucho menos de lo que era originalmente. 
+ fueron omitidos, también los códigos de programación que pertenecían al sensor fueron quitados, lo cual redujo el código entero a mucho menos de lo que era   
+ originalmente. 
  
 Para el proyecto fue necesario instalar en el arduino la librería DHT12 sensor library 1.01 de Renzo Mischianti 
 
