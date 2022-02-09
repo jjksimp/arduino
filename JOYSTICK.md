@@ -54,9 +54,6 @@ cuenta de que faltaba un cable. Luego de haber arreglado estos pequeños errores
 Consiste en hacer un "radar", en el cual al mover el joystick hasta cierto punto te encuentras con un punto/objeto en el eje Y o X. No
 solo utiliza el joystick, también se necesita un altavoz.
 
-(Aún no hecho)
-
-
 ------
 
 ### KY-015:
