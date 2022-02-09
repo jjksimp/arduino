@@ -1,4 +1,4 @@
-### Teótico
+### Teórico
 Página: 115
 
  Este proyecto consiste en imitar una bola de cristal utilizando una pantalla lcd y el arduino. En este proyecto se necesitan cables, una pantalla lcd,
