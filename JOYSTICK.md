@@ -4,7 +4,7 @@
  - [PÁGINA WEB DE LA CLASE](https://github.com/d-prieto/arduinoCourse/blob/main/Clase_de_Joystick.md)
  
  
-![Esquema JK-023](https://user-images.githubusercontent.com/90753482/152119489-864fad23-de13-49a4-929a-76bdb82104bb.jpg)
+ ![Esquema JK-023](https://user-images.githubusercontent.com/90753482/152119489-864fad23-de13-49a4-929a-76bdb82104bb.jpg)
 
  - [CÓDIGO DE PRUEBA](https://github.com/d-prieto/arduinoCourse/blob/main/joysticktest.ino)
  
@@ -59,6 +59,13 @@ solo utiliza el joystick, también se necesita un altavoz.
 ### KY-015:
 
  [Fantasy studio](https://www.fantasystudios.es/arduino/pages/Componentes/placas/sensores/sensor_ky-015.html)
+ 
+ Este proyecto consiste en medir la humedad y temperatura con un sensor KY-015 con ayuda de la página Fantasy studio que está arriba.
+ Los pasos que la página indicaba también incluían indicaciones para añadir el sensor DHT22 que al no usarlo nosotros para el proyecto
+fueron omitidos, también los códigos de programación que pertenecían al sensor fueron quitados, lo cual redujo el código entero a mucho menos de lo que era originalmente. 
+ 
+Para el proyecto fue necesario instalar en el arduino la librería DHT12 sensor library 1.01 de Renzo Mischianti 
+
 
 PINES:
 
